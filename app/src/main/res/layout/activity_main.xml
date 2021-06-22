@@ -32,7 +32,7 @@
         android:inputType="textPassword" />
 
     <Button
-        android:id="@+id/submitbutton"
+        android:id="@+id/submitButton"
         android:layout_width="358dp"
         android:layout_height="wrap_content"
         android:text="Submit" />

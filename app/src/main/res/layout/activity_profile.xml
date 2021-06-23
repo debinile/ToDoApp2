@@ -32,5 +32,13 @@
         tools:layout_editor_absoluteX="40dp"
         tools:layout_editor_absoluteY="190dp" />
 
+    <ImageView
+        android:id="@+id/imageView8"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        app:srcCompat="@drawable/ic_fish"
+        tools:layout_editor_absoluteX="259dp"
+        tools:layout_editor_absoluteY="178dp" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
 

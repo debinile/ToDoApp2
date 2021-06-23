@@ -16,4 +16,16 @@
         android:textColor="#FF5722"
         tools:layout_editor_absoluteX="108dp"
         tools:layout_editor_absoluteY="404dp" />
+
+    <Button
+        android:id="@+id/profileButton"
+        android:layout_width="263dp"
+        android:layout_height="wrap_content"
+        android:text="profileactivity" />
+
+    <Button
+        android:id="@+id/myActivity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="myactivity" />
 </LinearLayout>
